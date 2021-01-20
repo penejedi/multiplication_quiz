@@ -1,1 +1,1 @@
-create a simple multiplication quiz using pyhtons' module 
+created a simple multiplication quiz using pyhtons' module 
