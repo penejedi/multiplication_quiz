@@ -1,1 +1,1 @@
-# multiplication_quiz
+create a simple multiplication quiz using pyinputplus module 
